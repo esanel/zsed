@@ -1,2 +1,4 @@
 # hello-world
-Reository for the people
+Repository for the people
+
+Corrected spelling fopar
