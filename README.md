@@ -1,5 +1,5 @@
 # hello-world
-Repository by the people 
+hello word
 for the people
 
 Corrected spelling fopar
