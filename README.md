@@ -1,5 +1,5 @@
 # hello-world
-hello word
+hello world
 for the people
 
 Corrected spelling fopar
