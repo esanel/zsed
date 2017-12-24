@@ -1,4 +1,9 @@
 # hello-world
+<<<<<<< HEAD
+=======
+hello world
+for the people
+>>>>>>> 3a740a65e927184fc3ac88c20e2892d804046b70
 
 
 ﻿Book I
